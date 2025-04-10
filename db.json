@@ -49,6 +49,56 @@
       "modifiedAt": "2024-04-06T21:30:00Z",
       "tags": ["blog", "flutter", "chia sẻ"],
       "color": "#9C27B0"
+    },
+     {
+      "id": 6,
+      "title": "Chuẩn bị bài thuyết trình",
+      "content": "Hoàn thiện slide cho buổi họp nhóm vào thứ Hai.",
+      "priority": 3,
+      "createdAt": "2024-04-07T11:00:00Z",
+      "modifiedAt": "2024-04-07T12:00:00Z",
+      "tags": ["học tập", "thuyết trình"],
+      "color": "#3F51B5"
+    },
+    {
+      "id": 7,
+      "title": "Backup dữ liệu",
+      "content": "Sao lưu toàn bộ hình ảnh và tài liệu quan trọng lên Google Drive.",
+      "priority": 1,
+      "createdAt": "2024-04-08T17:45:00Z",
+      "modifiedAt": "2024-04-08T18:00:00Z",
+      "tags": ["công việc", "an toàn"],
+      "color": "#607D8B"
+    },
+    {
+      "id": 8,
+      "title": "Hẹn khám răng",
+      "content": "Đặt lịch với nha sĩ vào ngày 10/04 lúc 9h sáng.",
+      "priority": 2,
+      "createdAt": "2024-04-08T08:00:00Z",
+      "modifiedAt": "2024-04-08T08:15:00Z",
+      "tags": ["cá nhân", "sức khỏe"],
+      "color": "#FF5722"
+    },
+    {
+      "id": 9,
+      "title": "Xem lại hợp đồng du lịch",
+      "content": "Kiểm tra điều khoản thanh toán và thời hạn.",
+      "priority": 3,
+      "createdAt": "2024-04-09T13:30:00Z",
+      "modifiedAt": "2024-04-09T13:45:00Z",
+      "tags": ["công việc", "du lịch"],
+      "color": "#00BCD4"
+    },
+    {
+      "id": 10,
+      "title": "Lập kế hoạch học tiếng Anh",
+      "content": "Học 20 phút mỗi ngày và luyện nghe qua podcast.",
+      "priority": 2,
+      "createdAt": "2024-04-09T19:00:00Z",
+      "modifiedAt": "2024-04-09T19:30:00Z",
+      "tags": ["học tập", "tiếng Anh"],
+      "color": "#8BC34A"
     }
   ]
 }
