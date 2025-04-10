@@ -1,0 +1,54 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Học Flutter",
+      "content": "Xem lại phần Provider và xử lý API.",
+      "priority": 3,
+      "createdAt": "2024-04-01T10:00:00Z",
+      "modifiedAt": "2024-04-02T12:00:00Z",
+      "tags": ["học tập", "flutter"],
+      "color": "#2196F3"
+    },
+    {
+      "id": 2,
+      "title": "Mua sắm cuối tuần",
+      "content": "Mua rau, cá, thịt và trái cây.",
+      "priority": 2,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": ["cá nhân", "đi chợ"],
+      "color": "#4CAF50"
+    },
+    {
+      "id": 3,
+      "title": "Gọi điện cho khách hàng",
+      "content": "Liên hệ với khách hàng về lịch tour tháng 5.",
+      "priority": 1,
+      "createdAt": "2024-04-04T14:20:00Z",
+      "modifiedAt": "2024-04-04T14:45:00Z",
+      "tags": ["công việc", "liên hệ"],
+      "color": "#FFC107"
+    },
+    {
+      "id": 4,
+      "title": "Tập thể dục buổi sáng",
+      "content": "Chạy bộ 30 phút và tập yoga.",
+      "priority": 2,
+      "createdAt": "2024-04-05T06:00:00Z",
+      "modifiedAt": "2024-04-05T06:30:00Z",
+      "tags": ["sức khỏe", "thể dục"],
+      "color": "#E91E63"
+    },
+    {
+      "id": 5,
+      "title": "Viết bài blog",
+      "content": "Viết bài chia sẻ về kinh nghiệm học Flutter và tạo app ghi chú.",
+      "priority": 3,
+      "createdAt": "2024-04-06T20:00:00Z",
+      "modifiedAt": "2024-04-06T21:30:00Z",
+      "tags": ["blog", "flutter", "chia sẻ"],
+      "color": "#9C27B0"
+    }
+  ]
+}
